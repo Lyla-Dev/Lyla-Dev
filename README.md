@@ -8,11 +8,10 @@
 <!--![Minkyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=LylaDev&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LylaDev&layout=compact)-->
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FBE69A&fontColor=463F28&height=300&section=header&text=Hi!-nl-Welcome%20to%20Minkyeong's%20Git&fontSize=50&fontAlign=70&animation=twinkling) -->
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/703109303869189954/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Lyla-Dev&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Lyla-Dev"
+  width="600"
+  height="300"
+/>
+</a>
