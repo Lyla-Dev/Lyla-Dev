@@ -1,19 +1,12 @@
 ## Hi there 🐥 This is Minkyeong's Github
 <div>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Lyla-Dev&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/Lyla-Dev"
-    width="400"
-    height="300"/>
+    <img src="https://render.gitanimals.org/farms/Lyla-Dev" width="400" height="250"/>
   </a>
-</div>
-<br>
-
-----
+</div><br>
 
 
-
-
+ 
 **👩‍💻 Tech Stacks**
 <div>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -29,8 +22,6 @@
 <div>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
-
-<!-- <br>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyla-Dev)](https://github.com/anuraghazra/github-readme-stats) -->
